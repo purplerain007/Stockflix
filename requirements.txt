@@ -1,0 +1,8 @@
+prophet               
+markdown
+pystan
+streamlit
+pandas
+plotly
+numpy          
+yfinance
