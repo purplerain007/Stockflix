@@ -20,7 +20,7 @@ from PIL import Image
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
 
-st.title('Stock Forecast App 💎')
+st.title('Stockflix : Stock Forecast App 💎')
 
 
 
@@ -122,5 +122,5 @@ st.write(fig3)
 
 
                                                  
-st.subheader('Authors')
-st.write('Saharsh Saxena : purplerain007' )
+st.title('Authors')
+st.subheader('Saharsh Saxena : purplerain007')
